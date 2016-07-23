@@ -8,10 +8,7 @@
             <tbody>
             <tr class="bg-info">
             
-            <tr>
-                <td>Investment Name</td>
-                <td><?php echo ($investment['investment name']); ?></td>
-            </tr>
+            
             <tr>
                 <td>Category</td>
                 <td><?php echo ($investment['category']); ?></td>

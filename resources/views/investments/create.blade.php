@@ -11,10 +11,7 @@
         {!! Form::label('category', 'Category:') !!}
         {!! Form::text('symbol',null,['class'=>'form-control']) !!}
     </div>
-    <div class="form-group">
-        {!! Form::label('name', 'Investment Name:') !!}
-        {!! Form::text('name',null,['class'=>'form-control']) !!}
-    </div>
+    
     <div class="form-group">
         {!! Form::label('description', 'Description:') !!}
         {!! Form::text('shares',null,['class'=>'form-control']) !!}
