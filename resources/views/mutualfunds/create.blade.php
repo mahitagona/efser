@@ -12,7 +12,7 @@
     </div>
      <div class="form-group">
         {!! Form::label('funds', 'Funds:') !!}
-        {!! Form::text('shares',null,['class'=>'form-control']) !!}
+        {!! Form::text('funds',null,['class'=>'form-control']) !!}
     </div>
      <div class="form-group">
         {!! Form::label('shareperfund', 'Shareperfund:') !!}
