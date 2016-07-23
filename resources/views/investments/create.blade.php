@@ -9,12 +9,12 @@
 
     <div class="form-group">
         {!! Form::label('category', 'Category:') !!}
-        {!! Form::text('symbol',null,['class'=>'form-control']) !!}
+        {!! Form::text('category',null,['class'=>'form-control']) !!}
     </div>
     
     <div class="form-group">
         {!! Form::label('description', 'Description:') !!}
-        {!! Form::text('shares',null,['class'=>'form-control']) !!}
+        {!! Form::text('description',null,['class'=>'form-control']) !!}
     </div>
     <div class="form-group">
         {!! Form::label('acquired_value', 'Acquired Value:') !!}
