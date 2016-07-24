@@ -17,23 +17,3 @@
     
 </p>
 
-</body>
-</html>
-
-</select>
-
-<form action="http://efs5891.herokuapp.com/customers">
-    <input type="submit" value="Select a Customer profile">
-</form>
-
-<form action="http://efs5891.herokuapp.com/stocks">
-    <input type="submit" value="Stocks portfolio">
-</form>
-
-<form action="http://efs5891.herokuapp.com/investments">
-    <input type="submit" value="Investments portfolio">
-</form>
-
-<form action="http://efs5891.herokuapp.com/mutualfunds">
-    <input type="submit" value="Mutualfunds portfolio">
-</form>
