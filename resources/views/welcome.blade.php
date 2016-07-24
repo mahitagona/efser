@@ -1,45 +1,39 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Laravel</title>
+<body>
+<html>
 
-        <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
-        <style>
-            html, body {
-                height: 100%;
-            }
+<p align="center">
 
-            body {
-                margin: 0;
-                padding: 0;
-                width: 100%;
-                display: table;
-                font-weight: 100;
-                font-family: 'Lato', sans-serif;
-            }
+    <img src="http://www.robertotoole.com/wp-content/uploads/2011/04/Alaska_Eagles_DS7_8992A.jpg" alt="Eagle" style="width:550px;height:400px;">
+</p>
+<p
+        align="center" style ="color:Blue;font-weight:bold;font-size:200%;">
+    EAGLE FINANCIAL SERVICES
 
-            .container {
-                text-align: center;
-                display: table-cell;
-                vertical-align: middle;
-            }
+<p align="center" style="color:purple">
+      FINANCIAL ADVISING
+    
+</p>
 
-            .content {
-                text-align: center;
-                display: inline-block;
-            }
-
-            .title {
-                font-size: 96px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <div class="content">
-                <div class="title">Laravel 5</div>
-            </div>
-        </div>
-    </body>
+</body>
 </html>
+
+</select>
+
+<form action="http://efs5891.herokuapp.com/customers">
+    <input type="submit" value="Select a Customer profile">
+</form>
+
+<form action="http://efs5891.herokuapp.com/stocks">
+    <input type="submit" value="Stocks portfolio">
+</form>
+
+<form action="http://efs5891.herokuapp.com/investments">
+    <input type="submit" value="Investments portfolio">
+</form>
+
+<form action="http://efs5891.herokuapp.com/mutualfunds">
+    <input type="submit" value="Mutualfunds portfolio">
+</form>
