@@ -17,3 +17,23 @@
     
 </p>
 
+</body>
+</html>
+
+</select>
+
+<form action="https://efsmahi.herokuapp.com/customers">
+    <input type="submit" value="Select a Customer profile">
+</form>
+
+<form action="http://efsmahi.herokuapp.com/stocks">
+    <input type="submit" value="Stocks portfolio">
+</form>
+
+<form action="http://efsmahi.herokuapp.com/investments">
+    <input type="submit" value="Investments portfolio">
+</form>
+
+<form action="http://efsmahi.herokuapp.com/mutualfunds">
+    <input type="submit" value="Mutualfunds portfolio">
+</form>
